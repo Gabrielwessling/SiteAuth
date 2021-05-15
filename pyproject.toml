@@ -10,6 +10,7 @@ flask = "^2.0.0"
 flask-login = "^0.5.0"
 sqlalchemy = "^1.4.15"
 flask-sqlalchemy = "^2.5.1"
+werkzeug = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 

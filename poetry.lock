@@ -146,7 +146,7 @@ version = "2.0.0"
 watchdog = ["watchdog"]
 
 [metadata]
-content-hash = "94c30e6efa28cd518fa88e41a1d894d8bfd6bb3dc548716a5929c9ea04c1e62f"
+content-hash = "0e1d8cbcf215b7f93ecef974350c031ba54dabf0755a548539881e1c887d6ca3"
 python-versions = "^3.8"
 
 [metadata.files]
